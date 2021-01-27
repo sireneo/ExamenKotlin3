@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExamenKotlin</string>
+    <string name="boton1">INICIAR</string>
+    <string name="boton2">REPLICAS</string>
+    <string name="boton3">ExamenKotlin</string>
+
+    <string name="numero">Ingrese un valor</string>
+
+    <string name="raiobuton">FIBONACCI</string>
+    <string name="REPLICAS">PARES REPLICAS</string>
+    <string name="BINARIO">BINARIO</string>
+
+    <string name="calcular">CALCULAR</string>
+
+    <string name="atras">ATRAS</string>
+    <string name="CAL">CALCULAR</string>
+</resources>
